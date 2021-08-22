@@ -189,7 +189,7 @@
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-16d7000b035f49328c20d890648e3eea" targetConnections="id-d78fd01719f64755ac9482144adf4d44 id-7be9878e7e3c4cc19fac58e18400be47" archimateElement="id-a49630e293774a9da4f8adb17c75ad26">
-        <bounds x="371" y="215" width="15" height="15"/>
+        <bounds x="364" y="216" width="15" height="15"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-b06da6b2e362413ab8a1d9b59db2ac3b" source="id-16d7000b035f49328c20d890648e3eea" target="id-f6e8197a0a17448aa542e6109de37654" archimateRelationship="id-0ff98a6b314d4babb8d6559d0d331fea"/>
       </child>
     </element>

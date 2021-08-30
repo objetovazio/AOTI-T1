@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="4_1_2_14_PN_Reunioes" id="id-59f69bf9f8b44095bc38af98d4cf9e18" version="4.6.0">
+  <folder name="Strategy" id="id-bbd8c08d737e41f9948f93b0fef5e914" type="strategy"/>
+  <folder name="Business" id="id-f175d433811943cb830de4ea2a594016" type="business">
+    <element xsi:type="archimate:BusinessRole" name="Processo no qual o gerente de projeto realiza reuniões com o time de desenvolvimento para saber como está o desenvolvimento dos projetos." id="id-7564c19074bb4f618ac269e7e7d85e98"/>
+    <element xsi:type="archimate:BusinessActor" name="Gerente de Projeto" id="id-8971f360d6d7421cba1d6d2e8628fe8e"/>
+    <element xsi:type="archimate:BusinessProcess" name="Realizar reuniões periódicas" id="id-447e378025e5427ab01d784f9be04862"/>
+    <element xsi:type="archimate:BusinessActor" name="Equipe de desenvolvimento" id="id-0bb02cdbaa824bc6a3b43ad4b4251c88"/>
+    <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-8e22be9a1e444006a29c9001b5675e8d"/>
+    <element xsi:type="archimate:BusinessProcess" name="Verificar o desenvolvimento dos projetos" id="id-259f715ab3ac4d89886d0b52ba7b95b7"/>
+  </folder>
+  <folder name="Application" id="id-1e1e9fd1d89e4ec19db465f61faa6372" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-b1ab0126f20d4bc88a89e5a8f92f4e16" type="technology"/>
+  <folder name="Motivation" id="id-da52a25535744ca58d90f4de5a293aee" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-c4debdb53330418cb9d783476b7ebdc0" type="implementation_migration"/>
+  <folder name="Other" id="id-8efc41bfc1d6464dadaf28132a573fd7" type="other"/>
+  <folder name="Relations" id="id-ca3dd5d8d9294548b66ba655d9af894a" type="relations">
+    <element xsi:type="archimate:CompositionRelationship" id="id-79d49f8c7c044d8697d69d96a1033c20" source="id-447e378025e5427ab01d784f9be04862" target="id-259f715ab3ac4d89886d0b52ba7b95b7"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-86c3fe6eb3194ff5b21273acd01d2cf4" source="id-8971f360d6d7421cba1d6d2e8628fe8e" target="id-447e378025e5427ab01d784f9be04862"/>
+    <element xsi:type="archimate:AssignmentRelationship" id="id-629f5d20eae74e519455a5aa808f2f73" source="id-0bb02cdbaa824bc6a3b43ad4b4251c88" target="id-447e378025e5427ab01d784f9be04862"/>
+  </folder>
+  <folder name="Views" id="id-848df0a0a8804ddd96f88ee0fe21ef15" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="4_1_2_14_PN_Reunioes" id="id-e8726868a30b4ea5a9f7444089f29cc5">
+      <child xsi:type="archimate:DiagramObject" id="id-e5455cf706374c73816de7ca09251c54" archimateElement="id-8971f360d6d7421cba1d6d2e8628fe8e">
+        <bounds x="24" y="60" width="133" height="25"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-24657965b38e4af997b4a13f08980de8" source="id-e5455cf706374c73816de7ca09251c54" target="id-4d186138f5ce482886611c074a1f8089" archimateRelationship="id-86c3fe6eb3194ff5b21273acd01d2cf4"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4d186138f5ce482886611c074a1f8089" targetConnections="id-24657965b38e4af997b4a13f08980de8 id-5d6986258af04269ab7ffc6ac76d6785" archimateElement="id-447e378025e5427ab01d784f9be04862">
+        <bounds x="216" y="36" width="169" height="121"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6ca6c34b49c849dfbe436c6c09b660bc" source="id-4d186138f5ce482886611c074a1f8089" target="id-72427e5b20694ac782510242170a9b33" archimateRelationship="id-79d49f8c7c044d8697d69d96a1033c20"/>
+        <child xsi:type="archimate:DiagramObject" id="id-72427e5b20694ac782510242170a9b33" targetConnections="id-6ca6c34b49c849dfbe436c6c09b660bc" archimateElement="id-259f715ab3ac4d89886d0b52ba7b95b7">
+          <bounds x="12" y="48" width="133" height="61"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-b9df5e7ab5264e609547bed97ed0a9bc" archimateElement="id-0bb02cdbaa824bc6a3b43ad4b4251c88">
+        <bounds x="24" y="108" width="133" height="37"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-5d6986258af04269ab7ffc6ac76d6785" source="id-b9df5e7ab5264e609547bed97ed0a9bc" target="id-4d186138f5ce482886611c074a1f8089" archimateRelationship="id-629f5d20eae74e519455a5aa808f2f73"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>

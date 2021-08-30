@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="trab_aoti" id="id-9c91910330c34724955b9968d3037cc1" version="4.6.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="2_3_1_InteraçãoInterna" id="id-9c91910330c34724955b9968d3037cc1" version="4.6.0">
   <folder name="Strategy" id="id-b22c53152be24d7288a698921746b960" type="strategy"/>
   <folder name="Business" id="id-edc97da6f2554d6b9abe1b6fbe4a7d60" type="business">
     <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-b01f301aaccc428abbc17b3af56a4bcf"/>
@@ -105,7 +105,7 @@
     <element xsi:type="archimate:FlowRelationship" name="Capacita novos funcionários de dev." id="id-778b4f9ab3434c44a1e1b8e41f875489" source="id-9e1bc882015b4b21893a5b91b2ae1bf1" target="id-91c15ca6b7bc401f994b26c58b7d6ba2"/>
   </folder>
   <folder name="Views" id="id-a6e0310baafe46319e3018246a8f1dba" type="diagrams">
-    <element xsi:type="archimate:ArchimateDiagramModel" name="2_3_1" id="id-f72c7fb4660044089566f876c036bc74">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="2_3_1_InteraçãoInterna" id="id-f72c7fb4660044089566f876c036bc74">
       <child xsi:type="archimate:DiagramObject" id="id-5eb1911aa9354548bc2e12da7c6cb08d" targetConnections="id-894db3dd3dac40e0a35dfa84acc6f73e id-57ba7f92d397472ea51f8802ddef9239 id-f398cf1d2aff4024b6541e4fbf33918a id-004f8f60a5be4043a3590542a6f20b93 id-1681b444d43943bfa0f90ffe956cb7f3" archimateElement="id-0c9cdf6e72de4daf93f0dc8f53deb669">
         <bounds x="-120" y="444" width="1081" height="1129"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-c817bb2de35d4e49b034b791d6f260a0" source="id-5eb1911aa9354548bc2e12da7c6cb08d" target="id-b0ed35e3715d4706bd78f91cf1373171" archimateRelationship="id-60065e01764442c8a05860bb4195c8f3"/>

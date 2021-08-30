@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="4_1_2_12_PN_GerenciarFiliais" id="id-cca649d44e1f4eefb6165808d4fd9fc0" version="4.6.0">
+  <folder name="Strategy" id="id-b883bde43fa4405abe4428f5afaceb5b" type="strategy"/>
+  <folder name="Business" id="id-c2588db1690c43ad8ad6cf55a021c288" type="business"/>
+  <folder name="Application" id="id-e8d41a6169a54ed3bf7246d3b1409aee" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-45c9201ec2924628a4a75bad5bbb43ce" type="technology"/>
+  <folder name="Motivation" id="id-f4c587dd099540cb903f2451c5c60f40" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-3318b82c9bb44dac99939c95264a7a97" type="implementation_migration"/>
+  <folder name="Other" id="id-af9d3143b4ab4582a75925a49e476d47" type="other"/>
+  <folder name="Relations" id="id-ce31fb16f65b474a81dfb3837ef1f54b" type="relations"/>
+  <folder name="Views" id="id-3f3de8f173f943e78d8fedc0933ae90d" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="4_1_2_12_PN_GerenciarFiliais" id="id-961aa20bf1c14bf09f81864a63ffba1c"/>
+  </folder>
+</archimate:model>

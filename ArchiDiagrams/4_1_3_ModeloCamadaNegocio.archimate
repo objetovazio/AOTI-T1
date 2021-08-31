@@ -9,6 +9,6 @@
   <folder name="Other" id="id-e927dfd0e532413ea9d79788982f2539" type="other"/>
   <folder name="Relations" id="id-2f880c8266af40458cdc1da3ac448acf" type="relations"/>
   <folder name="Views" id="id-1aa9756751fa4a3791469506b373aae5" type="diagrams">
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-e90b9fb02c744f9fa3d99bcb1e161e7f"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="4_1_3_ModeloCamadaNegocio" id="id-e90b9fb02c744f9fa3d99bcb1e161e7f"/>
   </folder>
 </archimate:model>

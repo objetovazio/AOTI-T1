@@ -29,7 +29,7 @@
     <element xsi:type="archimate:BusinessProcess" name="Gerar e acompanhar plano estratégico" id="id-dd7c0db2de004c478a7615b34373bb5c"/>
     <element xsi:type="archimate:BusinessProcess" name="Acompanhar o Desempenho dos funcionários" id="id-74ed6712f7554f53a8c294b8483391be"/>
     <element xsi:type="archimate:BusinessProcess" name="Acompanhar andamento de projetos" id="id-e786e641bc984b1c805b0ee3ddd018df"/>
-    <element xsi:type="archimate:BusinessProcess" name="Reportar diretoria do desempenho das filiais" id="id-0bfa0fb78d994ef8b36e0c5343c53361"/>
+    <element xsi:type="archimate:BusinessProcess" name="Reportar desempenho das filiais para diretoria" id="id-0bfa0fb78d994ef8b36e0c5343c53361"/>
     <element xsi:type="archimate:BusinessActor" name="Produtos" id="id-61b73fd7643e415998fde16cfee8b886"/>
     <element xsi:type="archimate:BusinessRole" name="Gerente de Produtos (Matriz)" id="id-8cbb71e49eed41b28f1582585062c660"/>
     <element xsi:type="archimate:BusinessActor" name="Diretoria" id="id-aba90e1517ed442697fa77b5cba3a9fc"/>

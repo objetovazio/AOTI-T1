@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="4_1_3_ModeloCamadaNegocio" id="id-559ec7ccfb8b4e528ba1b4e8fe9600bc" version="4.6.0">
+  <folder name="Strategy" id="id-7b25455ab26b46c19a05d75ee9a2c87f" type="strategy"/>
+  <folder name="Business" id="id-189dc41a459545de9948af591118ed4e" type="business"/>
+  <folder name="Application" id="id-97425a608d8640e6a7c83cf8ed7765ad" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-6f38574f7aa147eb88e366b9f22034e9" type="technology"/>
+  <folder name="Motivation" id="id-87e9ffe5b980415387c4499900fa9314" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-aeb3ee9feea74519966797b95057fd94" type="implementation_migration"/>
+  <folder name="Other" id="id-e927dfd0e532413ea9d79788982f2539" type="other"/>
+  <folder name="Relations" id="id-2f880c8266af40458cdc1da3ac448acf" type="relations"/>
+  <folder name="Views" id="id-1aa9756751fa4a3791469506b373aae5" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-e90b9fb02c744f9fa3d99bcb1e161e7f"/>
+  </folder>
+</archimate:model>

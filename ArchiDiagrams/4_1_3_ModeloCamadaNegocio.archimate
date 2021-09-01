@@ -48,7 +48,7 @@
     <element xsi:type="archimate:BusinessActor" name="Gerente de Produtos Matriz" id="id-099c1ada57d941cea785a18a7c822136"/>
     <element xsi:type="archimate:BusinessProcess" name="Gera relatório de finanças" id="id-2e5634632b0542529f8d460f16c5217c"/>
     <element xsi:type="archimate:BusinessProcess" name="Gera relatório de Desempenho da Filial" id="id-3d99f2a66f5744c38f433225f7c5b48e"/>
-    <element xsi:type="archimate:BusinessProcess" name="Criar Planejamento Estratágico (Filial)" id="id-e5ec06d777644497ad2561b87050487f"/>
+    <element xsi:type="archimate:BusinessProcess" name="Criar Planejamento Estratégico (Filial)" id="id-e5ec06d777644497ad2561b87050487f"/>
     <element xsi:type="archimate:BusinessObject" name="Planejamento Estratégico mensal" id="id-df09a8422484462b86b94449f0403ea9"/>
     <element xsi:type="archimate:BusinessObject" name="Documento de Requisitos" id="id-4a4aad7e635a4b30ab935040e1667608"/>
   </folder>
@@ -302,7 +302,7 @@
           <bounds x="216" y="154" width="120" height="36"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c3ce8bd5e2df4068ae2515a891bb87d8" source="id-ab1cb10aa52e4c30a6512e3bcf47d5f5" target="id-38018240948b475680db7b19ff924ffe" archimateRelationship="id-e59fbdb71e5e4a3caf5d98a637ea5485"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-3baad7c5c9e54e0087c76c479e023871" source="id-ab1cb10aa52e4c30a6512e3bcf47d5f5" target="id-791197d2282446ccb4578de6822d9b55" archimateRelationship="id-2389fdd2715d408786f0beb9d40ce49b">
-            <bendpoint startX="48" startY="-52" endX="-108" endY="58"/>
+            <bendpoint startX="23" startY="-53" endX="-133" endY="56"/>
             <bendpoint startX="156" startY="-52" endY="58"/>
           </sourceConnection>
         </child>
